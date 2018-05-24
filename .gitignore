@@ -1,0 +1,13 @@
+node_modules
+coverage
+.nyc_output
+.DS_Store
+*.log
+.idea
+dist/*
+!dist/docs-aws/
+!dist/docs-tap/
+
+parse-mime.ts
+compiled
+.awcache
